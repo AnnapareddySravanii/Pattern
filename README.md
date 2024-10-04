@@ -1,4 +1,4 @@
-# Pattern
+# Single_ton_pattern_example
 class Encapsulation:
     __instance = None  #######Singleton instance 
 
